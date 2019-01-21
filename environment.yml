@@ -1,0 +1,7 @@
+name: plotly-test
+dependencies:
+  - python=3.7
+  - pip
+  - ipykernel
+  - plotly==3.4.2
+  - ipywidgets==7.4.2
